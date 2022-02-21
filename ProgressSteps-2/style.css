@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50rem;
+}
+
+.node{
+    display: inline-block;
+    border: 2px solid grey;
+    border-radius: 2rem;
+    font-size: 2rem;
+    width: 3rem;
+    text-align: center;
+    margin-right: 5rem;
+}
+
+.active{
+    border: 5px solid blue;
+}
