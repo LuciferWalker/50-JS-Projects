@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.container{
+    text-align: center;
+}
+
+p{
+    font-size: 3rem;
+}
